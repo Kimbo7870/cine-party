@@ -1,0 +1,22 @@
+[
+  {
+    "title": "blue",
+    "file": "/images/blue.jpg",
+    "dimension": "vertical"
+  },
+  {
+    "title": "purple",
+    "file": "/images/purple.PNG",
+    "dimension": "vertic"
+  },
+  {
+    "title": "red",
+    "file": "/images/red.jpg",
+    "dimension": "vertical"
+  },
+  {
+    "title": "green",
+    "file": "/images/green.jpg",
+    "dimension": "vertical"
+  }
+]
